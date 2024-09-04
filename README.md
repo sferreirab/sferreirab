@@ -1,6 +1,8 @@
 ## Buh aqui galerinha🌕
 ELE/DELE
+
 °Estou me desenvolvendo na linguagem JavaScript
+
 °Uso este espaço para a minha organização e o compartilhamento dos meus projetos desenvolvidos
  
 _**Meios para contato**_ 📫  
